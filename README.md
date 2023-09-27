@@ -22,7 +22,7 @@ Build your own PC with ease using our PC Builder website. Explore a wide range o
 
 1. Click "PC Builder" to start building your PC.
 2. Explore categories and select components.
-3. Add at least 5-6 components to enable the "Complete Build" button.
+3. Add at least 7 components to enable the "Complete Build" button.
 4. Leave reviews on product detail pages.
 
 ## Bonus Features
